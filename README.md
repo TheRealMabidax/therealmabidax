@@ -48,13 +48,14 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gift-lesedi-mabidilala-a8b1a2348/) *(add your link)*
-- 🌐 [Portfolio](#) *(in progress or live!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/gift-lesedi-mabidilala-a8b1a2348/)
+- 🌐 [Portfolio](#) *(in progress)*
 - 📧 [lgmabidilala@gmail.com](mailto:youremail@example.com)
 
 ---
 
 > *“I started coding with curiosity, now I'm building the future one line at a time.”*
+> *“I was inspired by my friends [Sabelo](#), [Lukhona](#) and [Raynald](#).”*
 
 ---
 
