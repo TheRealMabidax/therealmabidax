@@ -50,7 +50,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gift-lesedi-mabidilala-a8b1a2348/)
 - 🌐 [Portfolio](#) *(in progress)*
-- 📧 [lgmabidilala@gmail.com](mailto:youremail@example.com)
+- 📧 [Email](mailto:lgmabidilala@gmail.com)
 
 ---
 
