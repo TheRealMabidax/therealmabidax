@@ -54,8 +54,8 @@
 
 ---
 
-> *“I started coding with curiosity, now I'm building the future one line at a time.”*
-> *“I was inspired by my friends [Sabelo](#), [Lukhona](#) and [Raynald](#).”*
+> *“I started coding with curiosity, now I'm building the future one line at a time.*
+> *I was inspired by my friends [Sabelo](#), [Lukhona](#) and [Raynald](#).”*
 
 ---
 
