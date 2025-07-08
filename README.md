@@ -35,8 +35,6 @@
 
 ---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealMabidax&show_icons=true&theme=default)
-
 ### 📚 Currently Learning
 
 - JavaScript ES6+ features
@@ -69,3 +67,4 @@
 
 ---
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealMabidax&show_icons=true&theme=default)
