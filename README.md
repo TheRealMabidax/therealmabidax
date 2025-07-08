@@ -26,10 +26,11 @@
 | **Pine City Zoo** | A app info of animals and popular places in South Africa | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) |
 | **Contact Book** | A app that can add, edit, delete contact info | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
 | **To-Do App** | A basic task tracker app | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
+| **Javascript Calculator** | A calculator that can do simple calculators | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
 | **Python Calculator** | A command-line calculator to practice Python logic | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
 | **Color Flipper** | A small app to change background color randomly | ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
 | **Shopping Cart** | A app that does simple addition and the name of a product | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
-| **Simple Auth | A app that has a raw username and password login | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
+| **Simple Auth** | A app that has a raw username and password login | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
 
 ---
 
