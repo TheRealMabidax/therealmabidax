@@ -33,6 +33,7 @@
 | **Simple Login Auth** | A app that has a raw username and password login | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
 | **Login/Register Form** | (underdevelopment) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
 ---
 
 ### 📚 Currently Learning
