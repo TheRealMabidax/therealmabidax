@@ -22,7 +22,7 @@
 | Project Name | Description | Tech |
 |--------------|-------------|------|
 | **Portfolio Website** | Personal portfolio to showcase my work and skills | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) |
-| **Avengers Info** | A app that can get info of any member of the Avengers | ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
+| **Avengers Info** | A app that can get info of any member of the Avengers | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) |
 | **Pine City Zoo** | A app info of animals and popular places in South Africa | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) |
 | **Contact Book** | A app that can add, edit, delete contact info | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
 | **To-Do App** | A basic task tracker app | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
