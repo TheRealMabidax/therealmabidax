@@ -31,7 +31,7 @@
 | **Python Calculator** | A command-line calculator to practice Python logic | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
 | **Shopping Cart** | A app that does simple addition and the name of a product | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
 | **Simple Auth** | A app that has a raw username and password login | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
-
+### ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ---
 
 ### 📚 Currently Learning
