@@ -1,71 +1,62 @@
-<h1 align="center">Hi there! 👋 I'm Gift Lesedi Mabidilala</h1>
+<div align="center">
 
-<p align="center">🌱 A self-taught beginner web developer learning how to build cool things on the web!</p>
+# MABIDAX
+
+### Trading · Pine Script · AI-Assisted Building
+
+*The path changed. The builder in me didn't.*
+
+![Trading](https://img.shields.io/badge/FOCUS-TRADING-8B0000?style=for-the-badge&labelColor=111111)
+![Pine Script](https://img.shields.io/badge/TOOLS-PINE%20SCRIPT-8B0000?style=for-the-badge&labelColor=111111)
+![AI Assisted](https://img.shields.io/badge/BUILDING-AI--ASSISTED-8B0000?style=for-the-badge&labelColor=111111)
+
+</div>
 
 ---
 
-### 🧠 Languages & Tools
+## The story
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+I got into coding because I wanted to build things. Over time, trading became my main path—but that original desire to create never disappeared.
+
+Now I combine my trading ideas with **AI-assisted development** to build custom TradingView indicators and tools for my workflow. I vibe-code, experiment, debug, and refine ideas with AI as a coding partner. The goal isn't just to generate code; it's to understand the logic, test the result, and build something useful.
+
+**Trading is my direction. Building is still part of who I am.**
+
+## What I'm building
+
+| Project | What it does | Status |
+| --- | --- | --- |
+| **Akatsuki · 4H Universal Model [Pro]+** | A custom TradingView indicator built around my universal-model workflow. | 🔒 Private |
+| **ADR Expansion Indicator** | Tracks average daily range and helps assess whether additional daily expansion may remain. | 🔒 Private |
+| **Pine Script Lab** | A workspace for indicator experiments, market-structure logic, FVGs, and improvements. | 🔒 Private |
+
+> These are personal projects. The source code stays in private repositories while I develop and refine them.
+
+## My toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/TradingView-111111?style=flat-square&logo=tradingview&logoColor=white" alt="TradingView" />
+  <img src="https://img.shields.io/badge/Pine%20Script-8B0000?style=flat-square&logoColor=white" alt="Pine Script" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/AI--Assisted%20Development-8B0000?style=flat-square&logoColor=white" alt="AI-assisted development" />
 </p>
 
----
+I also have a foundation in **HTML, CSS, JavaScript, and Python**—skills I can keep growing as my projects evolve.
 
-### 🚀 Projects
+## What I'm working toward
 
-| Project Name | Description | Tech |
-|--------------|-------------|------|
-| **Portfolio Website** | Personal portfolio to showcase my work and skills | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) |
-| **Avengers Info** | A app that can get info of any member of the Avengers | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) |
-| **Pine City Zoo** | A app info of animals and popular places in South Africa | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) |
-| **Color Flipper** | A small app to change background color randomly | ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
-| **Contact Book** | A app that can add, edit, delete contact info | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
-| **To-Do App** | A basic task tracker app | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
-| **Javascript Calculator** | A calculator that can do simple calculators | ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) |
-| **Python Calculator** | A command-line calculator to practice Python logic | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
-| **Shopping Cart** | A app that does simple addition and the name of a product | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
-| **Simple Login Auth** | A app that has a raw username and password login | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) |
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMabidax&layout=compact&theme=default)
----
-
-### 📚 Currently Learning
-
-- JavaScript ES6+ features
-- Python fundamentals & projects
-- Git & GitHub workflows
-- Responsive design & accessibility
-- Php basics 
+- Building indicators that reflect my own trading concepts and rules.
+- Improving my Pine Script, debugging, and testing skills.
+- Using Git and GitHub to version, organize, and protect my projects.
+- Keeping a record of what I build, why I built it, and how it improves.
 
 ---
 
-### 🎯 2025 Goals
+<div align="center">
 
-- ✅ Build 10+ small projects
-- ✅ Publish first portfolio site
-- 🚀 Deploy a full-stack web app
-- 🌐 Contribute to open-source (even a small fix!)
+*AI can help write the code. The idea, judgment, testing, and responsibility still matter.*
 
----
+**Still learning. Still building. — MABIDAX**
 
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gift-lesedi-mabidilala-a8b1a2348/)
-- 🌐 [Portfolio](#) *(in progress)*
-- 📧 [Email](mailto:lgmabidilala@gmail.com)
-
----
-
-> *“I started coding with curiosity, now I'm building the future one line at a time.*
-> *I was inspired by my friends [Sabelo](#), [Lukhona](https://github.com/lethalstaz) and [Raynald](#).”*
-
----
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealMabidax&show_icons=true&theme=default)
+</div>
