@@ -26,12 +26,12 @@ I use AI as a development partner to help build, test, debug, and refine custom 
 
 | Project | Description | Visibility |
 | --- | --- | --- |
-| **Akatsuki [Pro]+** | TTrades Fractal Model combined with the QT-Expansion Model. | 🔒 Private |
-| **Akatsuki · 4H Universal Model [Pro]+** | A custom TradingView indicator built around my 4H Universal Model workflow. | 🔒 Private |
-| **Akatsuki · 4H** | Built around the 4H with HTF candles and line separators. | 🔒 Private |
-| **Akatsuki · 7H** | Built around the 7H with HTF candles and line separators. | 🔒 Private |
+| **Mabidax  [Pro]+** | TTrades Fractal Model combined with the QT-Expansion Model. | 🔒 Private |
+| **Mabidax · 4H Universal Model [Pro]+** | A custom TradingView indicator built around my 4H Universal Model workflow. | 🔒 Private |
+| **Mabidax · 4H** | Built around the 4H with HTF candles and line separators. | 🔒 Private |
+| **Mabidax · 7H** | Built around the 7H with HTF candles and line separators. | 🔒 Private |
 | **ADR Expansion Indicator** | Tracks Average Daily Range (ADR) to assess the potential for further daily price expansion. | 🔒 Private |
-| **Akatsuki Recap Builder** | An offline-capable tool designed to make reviewing market recaps across multiple timeframes easier. | 🔒 Private |
+| **Mabidax Recap Builder** | An offline-capable tool designed to make reviewing market recaps across multiple timeframes easier. | 🔒 Private |
 
 > These are personal projects. Their source code is kept in private repositories while I continue developing and refining them.
 
