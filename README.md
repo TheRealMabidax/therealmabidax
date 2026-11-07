@@ -32,6 +32,7 @@ I use AI as a development partner to help build, test, debug, and refine custom 
 | **Mabidax · 7H** | Built around the 7H with HTF candles and line separators. | 🔒 Private |
 | **ADR Expansion Indicator** | Tracks Average Daily Range (ADR) to assess the potential for further daily price expansion. | 🔒 Private |
 | **Mabidax Recap Builder** | An offline-capable tool designed to make reviewing market recaps across multiple timeframes easier. | 🔒 Private |
+| **Mabidax Trading Checklist** | its a checklist gang. | 🔒 Private |
 
 > These are personal projects. Their source code is kept in private repositories while I continue developing and refining them.
 
