@@ -26,13 +26,13 @@ I use AI as a development partner to help build, test, debug, and refine custom 
 
 | Project | Description | Visibility |
 | --- | --- | --- |
-| **Mabidax  [Pro]+** | TTrades Fractal Model combined with the QT-Expansion Model. | 🔒 Private |
-| **Mabidax · 4H Universal Model [Pro]+** | A custom TradingView indicator built around my 4H Universal Model workflow. | 🔒 Private |
-| **Mabidax · 4H** | Built around the 4H with HTF candles and line separators. | 🔒 Private |
-| **Mabidax · 7H** | Built around the 7H with HTF candles and line separators. | 🔒 Private |
-| **ADR Expansion Indicator** | Tracks Average Daily Range (ADR) to assess the potential for further daily price expansion. | 🔒 Private |
-| **Mabidax Recap Builder** | An offline-capable tool designed to make reviewing market recaps across multiple timeframes easier. | 🔒 Private |
-| **Mabidax Trading Checklist** | its a checklist gang. | 🔒 Private |
+| **Mabidax [Pro]+** | TTrades Fractal Model combined with the QT-Expansion Model. | 🔒 Private |
+| **Mabidax Trading Journal** | A offline journal to help record trades with a trade recapper, day recapper, weekly recapper. | 🔒 Private |
+| **4H Universal Model [Pro]+** | A custom TradingView indicator built around my 4H Universal Model workflow. | 🔒 Private |
+| **4H HTF** | Built around the 4H with HTF candles and line separators. | 🔒 Private |
+| **7H HTF** | Built around the 7H with HTF candles and line separators. | 🔒 Private |
+| **ADR Indicator** | Tracks Average Daily Range (ADR) to assess the potential for further daily price expansion. | 🔒 Private |
+| **Trading Checklist** | its a checklist gang. | 🔒 Private |
 
 > These are personal projects. Their source code is kept in private repositories while I continue developing and refining them.
 
