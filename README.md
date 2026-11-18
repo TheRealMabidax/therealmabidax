@@ -18,7 +18,7 @@
 
 I got into coding because I wanted to build things. These days, trading is my main focus—but I still enjoy turning ideas into useful tools.
 
-I use AI as a development partner to help build, test, debug, and refine custom TradingView indicators and utilities for my workflow. I call it vibe-coding: I bring the idea and direction, work through the logic, and iterate on the result.
+I use AI as a development partner to help build, test, debug, and refine custom TradingView indicators, websites and utilities for my workflow. I call it vibe-coding: I bring the idea and direction, work through the logic, and iterate on the result.
 
 **Trading is my direction. Building is still part of the journey.**
 
